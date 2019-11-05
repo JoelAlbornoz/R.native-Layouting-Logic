@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "lyttst",
+    "name": "numguess",
     "slug": "lyttst",
     "privacy": "public",
     "sdkVersion": "35.0.0",
@@ -25,6 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "description": "",
+    "android": {
+      "package": "com.eja.numguess"
     }
   }
 }
+
+
